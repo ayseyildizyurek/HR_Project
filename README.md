@@ -99,8 +99,8 @@ Version Control System: Azure Repo (Git)
 🚀 Hope our project catches your interest. Looking forward to your feedback and thoughts.
 
 
-<video>
+
 
 https://github.com/ayseyildizyurek/HR_Project/assets/139221896/65fdb25b-d0a8-4621-8265-dce0fcad7f7e
 
-</video>
+
